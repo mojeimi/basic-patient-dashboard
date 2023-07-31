@@ -1,0 +1,1 @@
+export const API_URL: string = "https://my-json-server.typicode.com/mojeimi/demo2/patients"
